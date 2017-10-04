@@ -1,5 +1,5 @@
 body{
-  background-color: #F65035;
+  background-color: #0c3d4c;
 color: #FFDC6C;
 font-family: 'Bubbler One', sans-serif;
 }
@@ -24,7 +24,7 @@ font-family: 'Bubbler One', sans-serif;
   position: relative;
   margin: auto;
   text-align: center;
-  color: #FFDC6C;
+  color: #0c3d4c;
 }
 
 #numb{
@@ -37,7 +37,7 @@ font-family: 'Bubbler One', sans-serif;
 }
 
 #editable-math{
-  background-color: #FFDC6C;
+  background-color: #0c3d4c;
   color: #0E0D0D;
   width: 100%;
   border: none;
