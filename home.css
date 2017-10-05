@@ -1,5 +1,5 @@
 body{
-  background-color: #F65035;
+  background-color: #15506d;
 color: #FFDC6C;
 font-family: 'Bubbler One', sans-serif;
 }
@@ -46,6 +46,10 @@ font-family: 'Bubbler One', sans-serif;
   position: relative;
   border-radius: 20px;
   box-shadow: none;
+}
+
+.btn{
+  padding:2px;
 }
 
 #bb{
